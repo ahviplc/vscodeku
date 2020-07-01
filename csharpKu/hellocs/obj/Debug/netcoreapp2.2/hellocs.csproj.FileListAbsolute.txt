@@ -1,0 +1,11 @@
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\bin\Debug\netcoreapp2.2\hellocs.deps.json
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\bin\Debug\netcoreapp2.2\hellocs.runtimeconfig.json
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\bin\Debug\netcoreapp2.2\hellocs.runtimeconfig.dev.json
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\bin\Debug\netcoreapp2.2\hellocs.dll
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\bin\Debug\netcoreapp2.2\hellocs.pdb
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\obj\Debug\netcoreapp2.2\hellocs.csprojAssemblyReference.cache
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\obj\Debug\netcoreapp2.2\hellocs.csproj.CoreCompileInputs.cache
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\obj\Debug\netcoreapp2.2\hellocs.AssemblyInfoInputs.cache
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\obj\Debug\netcoreapp2.2\hellocs.AssemblyInfo.cs
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\obj\Debug\netcoreapp2.2\hellocs.dll
+C:\_developSoftKu\VSCode-1.46.1\VSCodeKu\csharpKu\hellocs\obj\Debug\netcoreapp2.2\hellocs.pdb
