@@ -2,3 +2,6 @@
 # IDEA
 .idea
 vscodeku.iml
+
+# 输出目录 out
+out
