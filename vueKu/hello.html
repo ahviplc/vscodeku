@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Hello World Vue By LC</title>
+    <!-- 开发环境版本，包含了有帮助的命令行警告 -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    　<h1>Hello {{author}}</h1>
+    　{{message}} from {{author}} just say hello vue!
+</div>
+<script>
+    var vm = new Vue({
+        el: '#app',//这个app就是DIV的属性值里的app
+        data: {
+            message: 'hello world LC ',
+            author: "LC"
+        }
+    });
+</script>
+</body>
+
+</html>
