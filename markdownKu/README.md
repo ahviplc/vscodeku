@@ -1,8 +1,14 @@
 # VSCODEKU
 
+## slogan
+
 > vscodeku-vscode-run everything.
 
 > https://github.com/ahviplc/vscodeku
+
+> 备注:此项目使用Visual Studio Code软件开发工具打开.
+
+## about me 
 
 **欢迎来到 [LC博客-一加壹博客最Top](http://www.oneplusone.vip)**
 
