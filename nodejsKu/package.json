@@ -12,5 +12,8 @@
     "nodejs"
   ],
   "author": "LC",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "promptly": "^3.2.0"
+  }
 }
